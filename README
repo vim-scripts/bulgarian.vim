@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1109
+
+A phonetic bulgarian cyrillic keymap (UTF-8)
+
+This phonetic map is quite similar to the way the Gtk cyrillic input module works: for your convenience, some symbols can be entered in different ways; for instance, to enter the "shcha" you can type "sj" (as in the gtk module) or "sht".
